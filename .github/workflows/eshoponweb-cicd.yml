@@ -9,7 +9,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-borisv
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/7e9c46b9-ce91-4435-861a-7e1fb82c30e1
+  SUBSCRIPTION-ID: 7e9c46b9-ce91-4435-861a-7e1fb82c30e1
   WEBAPP-NAME: eshoponweb-webapp-bvelikovich
 
 
